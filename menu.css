@@ -1,0 +1,31 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-image:url(img/bg.jpg);
+    background-size: 100% auto;
+    
+}
+
+.menu{
+    text-align: center;
+    margin-top: 5%;
+}
+h1{
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+}
+li{
+    padding: 15px;
+}
+a{
+    font-size: 50px;
+    color: white;
+}
+a:hover{
+    color: #FA8072;
+}

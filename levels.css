@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+canvas{
+    background-color: rgb(6, 0, 59);
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-image:url(img/bg.jpg);
+    background-size: 100% auto;
+}
+
